@@ -75,4 +75,4 @@ type Point = [number, number];
 
 ## Conclusion
 
-Neither is better. Interface for objects, and reach for type when need its extra expressive power.
+Neither is highly better. Interface for objects, and reach for type when need its extra expressive power.
